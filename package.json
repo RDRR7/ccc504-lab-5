@@ -1,0 +1,26 @@
+{
+	"name": "ccc504-lab-5",
+	"version": "1.0.0",
+	"description": "Laboratorio #5 de Tecnologías Emergentes",
+	"main": "program.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/RDRR7/ccc504-lab-5.git"
+	},
+	"author": "René Rendón",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/RDRR7/ccc504-lab-5/issues"
+	},
+	"homepage": "https://github.com/RDRR7/ccc504-lab-5#readme",
+	"dependencies": {
+		"h2o2": "^8.1.2",
+		"handlebars": "^4.0.12",
+		"hapi": "^17.6.0",
+		"inert": "^5.1.0",
+		"vision": "^5.4.0"
+	}
+}
